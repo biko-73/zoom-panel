@@ -12,8 +12,8 @@
 
 PACKAGE_DIR='zoom-panel/main'
 
-MY_IPK="enigma2-plugin-extensions-simple-zoom-panel_2.2.4_all.ipk"
-MY_DEB="enigma2-plugin-extensions-simple-zoom-panel_2.2.4_all.deb"
+MY_IPK="enigma2-plugin-extensions-simple-zoom-panel_2.2.5_all.ipk"
+MY_DEB="enigma2-plugin-extensions-simple-zoom-panel_2.2.5_all.deb"
 
 ##########################################################################################################
 # Auto ... Do not change
